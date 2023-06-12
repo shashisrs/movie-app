@@ -1,0 +1,113 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.video-section{
+  max-width: 100%;
+  width:80%;
+  height: auto;
+  border-radius: 2rem;
+}
+
+.hero-section .container{
+  display: grid;
+  place-content: center;
+  height:95vh;
+}
+
+.nav-link{
+  color: white !important;
+}
+.navbar-toggler{
+  background-color:white !important;
+}
+.nav-link:hover{
+  color:rgb(245, 196, 0) !important;
+}
+
+.custom-shape-divider-bottom-1685775143 {
+  position: absolute;
+  bottom: -12%;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1685775143 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1685775143 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.topMovies{
+  margin-top: 15rem;
+  margin-bottom: 15rem;
+}
+.footer{
+  height: 40vh;
+  margin-top: 10rem;
+}
+.custom-shape-divider-top-1685868427 {
+  position: absolute;
+  top: -7%;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1685868427 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 150px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-top-1685868427 .shape-fill {
+  fill: #FFFFFF;
+}
+
+.item{
+ border-radius: 1rem !important;
+}
+.collectionPadding{
+  padding: 8rem 4rem !important;
+}
+
+.topMoviesHeight{
+height: 40vh !important;
+margin-top: 10rem !important;
+}
+.cursor{
+  cursor: pointer;
+}
+.cursor:hover{
+  scale: 1.1;
+  transition: all;
+  transition-duration: 500ms;
+  transition-timing-function: ease-in-out;
+}
+.ticket{
+  width: 30% !important;
+  height: 30% !important;
+  border-radius: 1rem;
+}
+.commonHeight{
+  height: 45vh;
+}
+.notFound{
+  height: 30vh;
+    width: 85vw;
+    margin-top: 4rem;
+}
