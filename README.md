@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+Checkout [live website](https://github.com/facebook/create-react-app](https://srs-movie-app.netlify.app/).
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
